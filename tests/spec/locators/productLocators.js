@@ -6,4 +6,5 @@ export default class productLocators{
     removeBikeLight = "#remove-sauce-labs-bike-light";
     removeFleeceJacket = "#remove-sauce-labs-fleece-jacket";
     cartIcon = "#shopping_cart_container > a";
+    
 }

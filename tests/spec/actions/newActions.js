@@ -5,7 +5,6 @@ import checkoutLocators from "../locators/checkoutLocators";
 import checkoutOverviewLocators from "../locators/checkoutOverviewLocators";
 import completeCheckoutLocators from "../locators/completeCheckoutLocators";
 import { expect } from '@playwright/test';
-import { time } from "console";
 
 export default class newActions {
     /**
