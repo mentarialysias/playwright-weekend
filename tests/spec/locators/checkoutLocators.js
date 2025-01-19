@@ -4,5 +4,4 @@ export default class checkoutLocators {
     inputZipCode = "#postal-code";
     cancelCheckoutButton = "#cancel";
     continueButton = "#continue";
-    
 }
